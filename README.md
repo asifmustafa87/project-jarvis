@@ -25,4 +25,6 @@ Large Language Model (LLM) instructions are seamlessly integrated into our pipel
 
 ### Visualization & Demo
 
+[GroupC_presentation_final.pdf](https://github.com/asifmustafa87/project-jarvis/files/12566797/GroupC_presentation_final.pdf)
+
 https://github.com/asifmustafa87/project-jarvis/assets/91586571/b7e6b340-e98b-43a5-8b38-d998b569af68
