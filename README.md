@@ -2,7 +2,7 @@
 
 ## Description
 
-This project, titled [Your Project Title], is a comprehensive exploration and implementation of human activity understanding for enhanced furniture assembly tools. It combines state-of-the-art techniques in computer vision and machine learning to address complex challenges in the domain of assembly processes.
+This project, is a comprehensive exploration and implementation of human activity understanding for enhanced furniture assembly tools. It combines state-of-the-art techniques in computer vision and machine learning to address complex challenges in the domain of assembly processes.
 
 ### Motivation & Purpose
 
